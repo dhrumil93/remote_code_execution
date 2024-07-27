@@ -156,3 +156,4 @@
  [31merror[39m [31mError While Connecting redis read ECONNRESET[39m 27-07-2024 06:15:21:1521
  [31merror[39m [31mError While Connecting redis Connection timeout[39m 27-07-2024 06:15:26:1526
  [31merror[39m [31mError While Connecting redis connect ETIMEDOUT 54.172.114.224:17544[39m 27-07-2024 06:20:30:2030
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 12:52:54:5254
