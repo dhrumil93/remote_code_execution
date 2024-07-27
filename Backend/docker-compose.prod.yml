@@ -1,0 +1,68 @@
+
+services:
+  rabbitmq:
+    image: "rabbitmq:3.9"
+    container_name: rabbitmq
+    ports:
+      - "5672:5672"
+    restart: always
+    networks:
+      - codex-network
+
+  redis:
+    image: "redis:latest"
+    container_name: redis
+    restart: always
+    ports:
+      - "6379:6379"
+    networks:
+       - codex-network
+
+  server:
+    image: aayushpagare21/rce-server:01
+    container_name: server
+    restart: always
+    ports:
+      - "80:80"
+    environment:
+      NODE_ENV: production
+      PORT: 80
+      QUEUE_HOST: rabbitmq
+      QUEUE_PORT: 5672
+      QUEUE_USER_NAME: guest
+      QUEUE_USER_PASSWORD: guest
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      CACHE_EXPIRY_SECONDS: 1000000
+    depends_on:
+      - rabbitmq
+      - redis
+    networks:
+        - codex-network
+
+  worker:
+    image: aayushpagare21/rce-sandbox:01
+    container_name: worker
+    restart: always
+    environment:
+      NODE_ENV: production
+      QUEUE_HOST: rabbitmq
+      QUEUE_PORT: 5672
+      QUEUE_USER_NAME: guest
+      QUEUE_USER_PASSWORD: guest
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      CACHE_EXPIRY_SECONDS: 1000000
+    depends_on:
+      - rabbitmq
+      - redis
+    networks:
+      - codex-network
+    deploy:
+      resources:
+        memory: 200M
+        cpus: 0.5
+
+networks:
+  codex-network:
+    driver: bridge 

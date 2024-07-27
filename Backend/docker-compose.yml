@@ -6,15 +6,13 @@ services:
     container_name: rabbitmq-local
     ports:
       - "5672:5672"
-      - "15672:15672" 
+      - "15672:15672"
     environment:
       RABBITMQ_DEFAULT_USER: guest
       RABBITMQ_DEFAULT_PASS: guest
 
   redis:
-    image: "redis/redis-stack:latest"
-    environment:
-      REDIS_ARGS: "--requirepass password --user username on >password ~* allcommands --user default off nopass nocommands"
+    image: "redis:latest"
     container_name: redis-local
     ports:
       - "6379:6379"
@@ -37,8 +35,8 @@ services:
       QUEUE_USER_PASSWORD: guest
       REDIS_HOST: redis
       REDIS_URL: 'redis://redis:6379'
-      REDIS_PASS: 'redispw'
-      RABBITMQ_HOST: rabbitmq 
+      REDIS_PASS: 'requirepass' 
+      RABBITMQ_HOST: rabbitmq
       REDIS_PORT: 6379
       CACHE_EXPIRY_SECONDS: 10000
     depends_on:
@@ -59,8 +57,8 @@ services:
       REDIS_HOST: redis
       REDIS_PORT: 6379
       REDIS_URL: 'redis://redis:6379'
-      REDIS_PASS: 'redispw'
-      RABBITMQ_HOST: rabbitmq # Correct hostname
+      REDIS_PASS: 'requirepass'  
+      RABBITMQ_HOST: rabbitmq
       GEMINI_API: ${GEMINI_API}
       CACHE_EXPIRY_SECONDS: 10000
     depends_on:
