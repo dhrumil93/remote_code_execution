@@ -1,0 +1,158 @@
+ [31merror[39m [31mRedis Connection URL is Missing[39m 27-07-2024 00:25:54:2554
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 00:26:48:2648
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 00:27:14:2714
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 00:34:07:347
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 00:48:08:488
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 00:51:50:5150
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 00:52:37:5237
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 00:53:02:532
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 00:53:31:5331
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 00:53:31:5331
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 00:53:31:5331
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 00:53:32:5332
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 00:54:56:5456
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 00:54:56:5456
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 00:54:57:5457
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 01:02:12:212
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 01:02:12:212
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 01:02:12:212
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 01:04:41:441
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 01:04:41:441
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 01:04:41:441
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 01:04:43:443
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 01:05:35:535
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 01:06:13:613
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 01:06:13:613
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 01:06:13:613
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 01:06:13:613
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 01:07:58:758
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 01:07:58:758
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 01:07:58:758
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 01:08:29:829
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 01:08:29:829
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 01:08:29:829
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 01:08:30:830
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 01:09:59:959
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 01:12:25:1225
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 01:12:25:1225
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 01:12:25:1225
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 01:12:28:1228
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 01:16:56:1656
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 01:16:56:1656
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 01:16:56:1656
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 01:16:57:1657
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 02:21:33:2133
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 02:21:33:2133
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 02:21:34:2134
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:23:33:2333
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:24:56:2456
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 02:27:17:2717
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 02:27:17:2717
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 02:27:18:2718
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:27:21:2721
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 02:28:05:285
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 02:28:05:285
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:28:05:285
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 02:28:05:285
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 02:29:39:2939
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 02:29:39:2939
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 02:29:40:2940
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:29:46:2946
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 02:33:37:3337
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 02:33:37:3337
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 02:33:38:3338
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:33:44:3344
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 02:35:02:352
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 02:35:02:352
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 02:35:03:353
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:35:05:355
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 02:36:30:3630
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 02:36:30:3630
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:36:30:3630
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 02:36:31:3631
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 02:38:52:3852
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 02:38:52:3852
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 02:38:53:3853
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:38:55:3855
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 02:40:51:4051
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 02:40:51:4051
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 02:40:52:4052
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:40:56:4056
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:42:18:4218
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:42:28:4228
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 02:43:31:4331
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 02:43:31:4331
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:43:31:4331
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 02:43:32:4332
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:43:45:4345
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 02:45:32:4532
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 02:45:32:4532
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 02:45:32:4532
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:45:34:4534
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:46:07:467
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:47:03:473
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:52:23:5223
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:52:41:5241
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 02:53:23:5323
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 03:02:15:215
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 03:02:15:215
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 03:02:15:215
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 03:02:15:215
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 03:03:18:318
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 03:04:47:447
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 03:04:47:447
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 03:04:47:447
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 03:04:47:447
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 03:05:08:58
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 03:05:31:531
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 03:05:31:531
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 03:05:32:532
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 03:05:34:534
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 03:07:27:727
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 03:07:27:727
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 03:07:27:727
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 03:07:28:728
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 03:07:43:743
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 03:08:07:87
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 03:08:07:87
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 03:08:08:88
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 03:08:22:822
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 03:10:51:1051
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 03:10:51:1051
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 03:10:51:1051
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 03:10:51:1051
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 03:12:48:1248
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 03:12:48:1248
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 03:12:49:1249
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 03:12:51:1251
+ [31merror[39m [31mError While Connecting redis read ECONNRESET[39m 27-07-2024 03:51:56:5156
+ [31merror[39m [31mError While Connecting redis Connection timeout[39m 27-07-2024 03:52:01:521
+ [31merror[39m [31mError While Connecting redis Connection timeout[39m 27-07-2024 03:52:06:526
+ [31merror[39m [31mError While Connecting redis Connection timeout[39m 27-07-2024 03:52:12:5212
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 03:52:37:5237
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 03:53:04:534
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 03:56:15:5615
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 03:56:15:5615
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 03:56:15:5615
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 04:06:15:615
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 04:06:15:615
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 04:06:16:616
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 04:08:41:841
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 04:08:44:844
+ [31merror[39m [31mError While Connecting redis read ECONNRESET[39m 27-07-2024 04:48:45:4845
+ [32minfo[39m [32mMessage consumed and acknowledged:[39m 27-07-2024 04:48:49:4849
+ [31merror[39m [31mError While Connecting redis Connection timeout[39m 27-07-2024 04:48:50:4850
+ [31merror[39m [31mError While Connecting redis Connection timeout[39m 27-07-2024 04:48:55:4855
+ [31merror[39m [31mError While Connecting redis Connection timeout[39m 27-07-2024 04:49:00:490
+ [31merror[39m [31mError While Connecting redis Connection timeout[39m 27-07-2024 04:49:05:495
+ [31merror[39m [31mError While Connecting redis Connection timeout[39m 27-07-2024 04:49:11:4911
+ [31merror[39m [31mError While Connecting redis Connection timeout[39m 27-07-2024 04:49:16:4916
+ [31merror[39m [31mError While Connecting redis Connection timeout[39m 27-07-2024 04:49:21:4921
+ [31merror[39m [31mError While Connecting redis Connection timeout[39m 27-07-2024 04:49:27:4927
+ [31merror[39m [31mError While Connecting redis Connection timeout[39m 27-07-2024 04:49:32:4932
+ [32minfo[39m [32mRabbitMQ Connected Successfully[39m 27-07-2024 05:14:57:1457
+ [32minfo[39m [32mRabbitMQ Channel Created and Queue Asserted[39m 27-07-2024 05:14:57:1457
+ [32minfo[39m [32mRedis Client Connected Successfully[39m 27-07-2024 05:14:57:1457
+ [31merror[39m [31mError While Connecting redis read ECONNRESET[39m 27-07-2024 06:15:21:1521
+ [31merror[39m [31mError While Connecting redis Connection timeout[39m 27-07-2024 06:15:26:1526
+ [31merror[39m [31mError While Connecting redis connect ETIMEDOUT 54.172.114.224:17544[39m 27-07-2024 06:20:30:2030

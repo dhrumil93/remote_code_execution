@@ -1,0 +1,5 @@
+dockerfile
+/node_modules
+.prettierignore
+.prettierrc
+.env
